@@ -1,0 +1,23 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "powerlifting-bg",
+      "description": "Powerful weightlifting atmosphere in a dark gym",
+      "imageUrl": "https://picsum.photos/seed/powerlift1/1920/1080",
+      "imageHint": "powerlifting gym"
+    },
+    {
+      "id": "viking-bg",
+      "description": "Viking themed dark gym background with textures",
+      "imageUrl": "https://picsum.photos/seed/viking-power/1920/1080",
+      "imageHint": "viking gym"
+    },
+    {
+      "id": "athlete-profile-placeholder",
+      "description": "Default athlete profile avatar",
+      "imageUrl": "https://picsum.photos/seed/athlete/200/200",
+      "imageHint": "athlete portrait"
+    }
+  ]
+}
